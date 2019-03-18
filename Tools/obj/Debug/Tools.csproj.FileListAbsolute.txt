@@ -1,0 +1,12 @@
+D:\Projects\fitnessmax\Tools\bin\Debug\Tools.exe.config
+D:\Projects\fitnessmax\Tools\bin\Debug\Tools.exe
+D:\Projects\fitnessmax\Tools\bin\Debug\Tools.pdb
+D:\Projects\fitnessmax\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+D:\Projects\fitnessmax\Tools\obj\Debug\Interop.zkemkeeper.dll
+D:\Projects\fitnessmax\Tools\obj\Debug\Tools.csproj.ResolveComReference.cache
+D:\Projects\fitnessmax\Tools\obj\Debug\Tools.APITests.resources
+D:\Projects\fitnessmax\Tools\obj\Debug\Tools.BackupRestore.resources
+D:\Projects\fitnessmax\Tools\obj\Debug\Tools.Properties.Resources.resources
+D:\Projects\fitnessmax\Tools\obj\Debug\Tools.csproj.GenerateResource.Cache
+D:\Projects\fitnessmax\Tools\obj\Debug\Tools.exe
+D:\Projects\fitnessmax\Tools\obj\Debug\Tools.pdb
